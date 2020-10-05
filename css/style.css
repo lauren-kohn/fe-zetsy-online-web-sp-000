@@ -4,7 +4,7 @@
 @font-face {
   font-family: "Baskerville";
   src:  url('./fonts/Baskerville.eot?') format:('embedded-opentype'),
-        url('./fonts/Baskerville.ttc') format:('truetype'),
+        url('./fonts/Baskerville.ttc') format:('truetype');
 }
 
 /*////////// Global Styles //////////*/
